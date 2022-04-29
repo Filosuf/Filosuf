@@ -22,7 +22,7 @@
 
 - 📚 Изучаю новый для себя язык программирования Swift
 - 👨‍👩‍👧 Свободное время провожу с семьей
-- 💬 Из хобби увлекаюсь футболом ⚽ и полётами на квадракоптере 🚁
+- 💬 Увлекаюсь футболом ⚽ и полётами на квадракоптере 🚁
 - 💾 Большинство репозиториев посвящено домашним заданиям Нетологии и курсу лекций Developing Apps for iOS Stanford University
 
 ---
@@ -34,6 +34,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/376328/jira.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_light_systemverilog.svg" title="SV" alt="SV" width="40" height="40"/>&nbsp;
   <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_verilog.svg" title="Verilog" alt="Verilog" width="40" height="40"/>&nbsp;
