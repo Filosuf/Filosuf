@@ -24,9 +24,25 @@
 - 👨‍👩‍👧 Свободное время провожу с семьей
 - 💬 Из хобби увлекаюсь футболом ⚽ и полётами на квадракоптере 🚁
 - 💾 Большинство репозиториев посвящено домашним заданиям Нетологии и курсу лекций Developing Apps for iOS Stanford University
+
 ---
 
-sdsds
+### 🛠 &nbsp;Языки программирования и средства разработки:
+
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_light_systemverilog.svg" title="SV" alt="SV" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_verilog.svg" title="Verilog" alt="Verilog" width="40" height="40"/>&nbsp;
+  <img src="https://logosandtypes.com/wp-content/uploads/2020/08/xilinx.svg" title="SV" alt="SV" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Quest_Software_logo.svg" title="QuestaSim" alt="QuestaSim" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.cdnlogo.com/logos/q/71/quartus.svg" title="QuestaSim" alt="QuestaSim" width="40" height="40"/>&nbsp;
+  
+<p>  
+
 <!--
 **Filosuf/Filosuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
