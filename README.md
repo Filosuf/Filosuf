@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="232"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://vk.com/filosuf">
     <img src="https://img.shields.io/badge/%D0%B2%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?style=for-the-badge&logo=vk&logoColor=white&" alt="Vk Badge"/>
   </a>
-  <a href="your-linkedin-URL">
+  <a href="https://youtube.com/channel/UCnpH3jHFWpqDDoQhFCbGZFg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"
   </a>      
 </div>
